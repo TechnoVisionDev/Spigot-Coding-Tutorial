@@ -1,4 +1,4 @@
-## Spigot/Bukkit Plugin Tutorial
+## Spigot Plugin Tutorial
 The complete source code for my Spigot/Bukkit plugin tutorial series. If you haven't watched my series, [click here](https://www.youtube.com/watch?v=lJyTEuqLQfU&list=PLDhiRTZ_vnoUvdrkTnaWP_hPmbj2JfPAF). Throughout it, you will learn to code your own plugin Mod scratch, starting with basic concepts and working through the entire API!
 
 ### Connect With Me:
